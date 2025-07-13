@@ -45,13 +45,11 @@ This project is a Streamlit-based web application that uses **LangChain** and **
    ```
 
 4. **Create a .env file in the root directory with your AWS credentials**:
-
-
    ```bash
-  AWS_ACCESS_KEY_ID="your_access_key_id"
-  AWS_SECRET_ACCESS_KEY="your_secret_access_key"
-  AWS_SESSION_TOKEN="your_session_token"  # Optional
-  AWS_REGION="AWS_REGION"
+      AWS_ACCESS_KEY_ID="your_access_key_id"
+      AWS_SECRET_ACCESS_KEY="your_secret_access_key"
+      AWS_SESSION_TOKEN="your_session_token"  # Optional
+      AWS_REGION="AWS_REGION"
    ```
 5. **Running the App**:
 
